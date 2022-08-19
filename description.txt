@@ -1,0 +1,23 @@
+Simple mod that adds new types of platforms for your arena or construction needs.
+Currently adds 7 new platforms:
+Dirt Platform
+Stone Platform
+Red Brick Platform
+Mud Platform
+Pearlstone Brick Platform
+Ebonstone Brick Platform
+Crimstone Brick Platform
+
+All of these platforms have quick placement so you can run at max speed while placing them.
+The dirt and stone platform are mostly for arena building since cutting down your entire worlds supply of wood for platforms isn't very cash money.
+
+UPDATE 1.1:
+Mud Platform
+Pearlstone Brick Platform
+Ebonstone Brick Platform
+Crimstone Brick Platform
+
+RELEASE 1.0:
+Dirt Platform
+Stone Platform
+Red Brick Platform
