@@ -1,4 +1,5 @@
-﻿using Terraria.ID;
+﻿using Terraria;
+using Terraria.ID;
 using Terraria.GameContent.Creative;
 using Terraria.ModLoader;
 
@@ -31,6 +32,10 @@ namespace MorePlatforms.Content.Items
 			CreateRecipe(2)
 				.AddIngredient(ItemID.DirtBlock)
 				.Register();
+
+			Recipe decraftRecipe = Recipe.Create(ItemID.DirtBlock);
+			decraftRecipe.AddIngredient<DirtPlatform>(2);
+			decraftRecipe.Register();
 		}
 	}
 }

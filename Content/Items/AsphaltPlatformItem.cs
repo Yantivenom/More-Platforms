@@ -34,6 +34,11 @@ namespace MorePlatforms.Content.Items
 			.AddTile(TileID.Blendomatic)
 			.Register();
 
+			Recipe decraftRecipe = Recipe.Create(ItemID.AsphaltBlock);
+			decraftRecipe.AddIngredient<AsphaltPlatformItem>(2);
+			decraftRecipe.AddTile(TileID.Blendomatic);
+			decraftRecipe.Register();
+
 		}
 	}
 }

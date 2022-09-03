@@ -1,4 +1,5 @@
-﻿using Terraria.ID;
+﻿using Terraria;
+using Terraria.ID;
 using Terraria.GameContent.Creative;
 using Terraria.ModLoader;
 
@@ -31,6 +32,11 @@ namespace MorePlatforms.Content.Items
 			CreateRecipe(2)
 				.AddIngredient(ItemID.CrimstoneBrick)
 				.Register();
+
+			Recipe decraftRecipe = Recipe.Create(ItemID.CrimstoneBrick);
+			decraftRecipe.AddIngredient<CrimbrickPlatform>(2);
+			decraftRecipe.Register();
+
 		}
 	}
 }

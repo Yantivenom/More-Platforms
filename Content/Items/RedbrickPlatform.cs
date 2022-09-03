@@ -1,4 +1,5 @@
-﻿using Terraria.ID;
+﻿using Terraria;
+using Terraria.ID;
 using Terraria.GameContent.Creative;
 using Terraria.ModLoader;
 
@@ -31,6 +32,10 @@ namespace MorePlatforms.Content.Items
 			CreateRecipe(2)
 				.AddIngredient(ItemID.RedBrick)
 				.Register();
+
+			Recipe decraftRecipe = Recipe.Create(ItemID.RedBrick);
+			decraftRecipe.AddIngredient<RedbrickPlatform>(2);
+			decraftRecipe.Register();
 		}
 	}
 }
