@@ -1,20 +1,24 @@
 Simple mod that adds new types of platforms for your arena or construction needs.
-Currently adds 9 new platforms:
+Currently adds 10 new platforms:
 Dirt Platform
 Stone Platform
-Asphalt Platform
+Asphalt Platform (Provides same move speed as Asphalt Blocks)
 Red Brick Platform
 Mud Platform
 Pearlstone Brick Platform
 Ebonstone Brick Platform
 Crimstone Brick Platform
 Sandstone Brick Platform
+Infused Honey Platform (Provides Honey Buff)
 
 All of these platforms have quick placement so you can run at max speed while placing them.
 The dirt and stone platform are mostly for arena building since cutting down your entire worlds supply of wood for platforms isn't very cash money.
 
 Check out my channel: https://www.youtube.com/channel/UCLuIwjMQzkYeqQvdIfCygPQ
 Source Code: https://github.com/Yantivenom/More-Platforms
+
+UPDATE 1.4:
+Infused Honey Platforms
 
 UPDATE 1.3:
 Platforms are now decraftable
