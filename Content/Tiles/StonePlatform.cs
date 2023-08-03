@@ -24,7 +24,7 @@ namespace MorePlatforms.Content.Tiles
 			AddToArray(ref TileID.Sets.RoomNeeds.CountsAsDoor);
 			AddMapEntry(new Color(96, 96, 96));
 
-			ItemDrop = ModContent.ItemType<Items.StonePlatform>();
+
 			AdjTiles = new int[] { TileID.Platforms };
 
 			//Placeable

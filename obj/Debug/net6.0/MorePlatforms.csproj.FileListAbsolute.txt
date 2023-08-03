@@ -21,6 +21,10 @@ C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePl
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Backports.dll
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Core.dll
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Iced.dll
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.ILHelpers.dll
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.RuntimeDetour.dll
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Utils.dll
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MP3Sharp.dll
@@ -69,7 +73,16 @@ C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePl
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\Mono.Cecil.Mdb.pdb
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\Mono.Cecil.Pdb.pdb
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\Mono.Cecil.Rocks.pdb
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Backports.pdb
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Backports.xml
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Core.pdb
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Core.xml
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Iced.pdb
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Iced.xml
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.ILHelpers.pdb
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.RuntimeDetour.pdb
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.RuntimeDetour.xml
+C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Utils.pdb
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\MonoMod.Utils.xml
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\ReLogic.pdb
 C:\Users\Yanse\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\MorePlatforms\bin\Debug\net6.0\ReLogic.xml

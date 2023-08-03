@@ -7,9 +7,9 @@ using Terraria.ObjectData;
 namespace MorePlatforms.Content.Tiles
 {
     public class DirtPlatform : ModTile
-    {
-        public override void SetStaticDefaults()
-        {
+	{
+		public override void SetStaticDefaults()
+		{
 			//Properties
 			Main.tileLighted[Type] = true;
 			Main.tileFrameImportant[Type] = true;
@@ -18,13 +18,12 @@ namespace MorePlatforms.Content.Tiles
 			Main.tileNoAttach[Type] = true;
 			Main.tileTable[Type] = true;
 			Main.tileLavaDeath[Type] = true;
-			TileID.Sets.Platforms[Type] = true;
+            TileID.Sets.Platforms[Type] = true;
 			TileID.Sets.DisableSmartCursor[Type] = true;
 
 			AddToArray(ref TileID.Sets.RoomNeeds.CountsAsDoor);
 			AddMapEntry(new Color(58, 29, 0));
 
-			ItemDrop = ModContent.ItemType<Items.DirtPlatform>();
 			AdjTiles = new int[] { TileID.Platforms };
 
 			//Placeable
@@ -39,6 +38,6 @@ namespace MorePlatforms.Content.Tiles
 			TileObjectData.addTile(Type);
 		}
 
-		public override void PostSetDefaults() => Main.tileNoSunLight[Type] = false;
+        public override void PostSetDefaults() => Main.tileNoSunLight[Type] = false;
 	}
 }

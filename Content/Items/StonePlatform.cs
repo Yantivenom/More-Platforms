@@ -9,14 +9,15 @@ namespace MorePlatforms.Content.Items
     {
 		public override void SetStaticDefaults()
 		{
-			Tooltip.SetDefault("Platform made of stone.");
+			// Tooltip.SetDefault("Platform made of stone.");
 
 			CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 200;
 		}
 
 		public override void SetDefaults()
 		{
-			Item.width = 8;
+
+            Item.width = 8;
 			Item.height = 10;
 			Item.maxStack = 999;
 			Item.useTurn = true;

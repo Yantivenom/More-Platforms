@@ -9,7 +9,7 @@ namespace MorePlatforms.Content.Items
     {
         public override void SetStaticDefaults()
         {
-            Tooltip.SetDefault("Platform made of crimstone brick.");
+            // Tooltip.SetDefault("Platform made of crimstone brick.");
 
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 200;
         }

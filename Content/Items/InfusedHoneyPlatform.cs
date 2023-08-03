@@ -2,6 +2,7 @@
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using Terraria.GameContent.Creative;
 
 namespace MorePlatforms.Content.Items
 {
@@ -9,9 +10,11 @@ namespace MorePlatforms.Content.Items
 	{
 		public override void SetStaticDefaults()
 		{
-			DisplayName.SetDefault("Infused Honey Platform");
-			Tooltip.SetDefault("Just like swimming in honey!");
-		}
+			// DisplayName.SetDefault("Infused Honey Platform");
+			// Tooltip.SetDefault("Just like swimming in honey!");
+
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 200;
+        }
 		public override void SetDefaults()
 		{
 			Item.width = 12;

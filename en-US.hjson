@@ -1,0 +1,65 @@
+Mods: {
+	MorePlatforms: {
+		Items: {
+			AsphaltPlatformItem: {
+				DisplayName: Asphalt Platform
+				Tooltip: Increases running speed
+			}
+
+			CrimbrickPlatform: {
+				DisplayName: Crimbrick Platform
+				Tooltip: Platform made of crimstone brick.
+			}
+
+			DirtPlatform: {
+				DisplayName: Dirt Platform
+				Tooltip: Platform made of dirt.
+			}
+
+			EbonbrickPlatform: {
+				DisplayName: Ebonbrick Platform
+				Tooltip: Platform made of ebonstone brick.
+			}
+
+			InfusedHoneyPlatform: {
+				DisplayName: Infused Honey Platform
+				Tooltip: Just like swimming in honey!
+			}
+
+			MudPlatform: {
+				DisplayName: Mud Platform
+				Tooltip: Platform made of mud.
+			}
+
+			PearlbrickPlatform: {
+				DisplayName: Pearlbrick Platform
+				Tooltip: Platform made of pearlstone brick.
+			}
+
+			PooPlatform: {
+				DisplayName: Poo Platform
+				Tooltip: Why? You stink now.
+			}
+
+			RainbowbrickPlatformItem: {
+				DisplayName: Rainbowbrick Platform
+				Tooltip: Walk the rainbow.
+			}
+
+			RedbrickPlatform: {
+				DisplayName: Redbrick Platform
+				Tooltip: Platform made of Red Bricks.
+			}
+
+			SandbrickPlatform: {
+				DisplayName: Sandbrick Platform
+				Tooltip: Platform made of Sand Bricks.
+			}
+
+			StonePlatform: {
+				DisplayName: Stone Platform
+				Tooltip: Platform made of stone.
+			}
+		}
+	}
+}

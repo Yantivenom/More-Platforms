@@ -31,7 +31,7 @@ namespace MorePlatforms.Content.Tiles
 			AddToArray(ref TileID.Sets.RoomNeeds.CountsAsDoor);
 			AddMapEntry(new Color(47, 51, 58));
 			DustType = 54;
-			ItemDrop = ModContent.ItemType<Items.AsphaltPlatformItem>();
+
 			AdjTiles = new int[] { TileID.Platforms };
 		}
 		public override void PostSetDefaults()

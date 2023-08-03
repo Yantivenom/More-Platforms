@@ -24,7 +24,6 @@ namespace MorePlatforms.Content.Tiles
 			AddToArray(ref TileID.Sets.RoomNeeds.CountsAsDoor);
 			AddMapEntry(new Color(149, 43, 43));
 
-			ItemDrop = ModContent.ItemType<Items.EbonbrickPlatform>();
 			AdjTiles = new int[] { TileID.Platforms };
 
 			//Placeable

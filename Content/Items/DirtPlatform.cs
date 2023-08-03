@@ -9,7 +9,7 @@ namespace MorePlatforms.Content.Items
     {
         public override void SetStaticDefaults()
         {
-            Tooltip.SetDefault("Platform made of dirt.");
+            // Tooltip.SetDefault("Platform made of dirt.");
 
             CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 200;
         }
@@ -27,7 +27,8 @@ namespace MorePlatforms.Content.Items
 			Item.consumable = true;
 			Item.createTile = ModContent.TileType<Tiles.DirtPlatform>();
 		}
-		public override void AddRecipes()
+
+        public override void AddRecipes()
 		{
 			CreateRecipe(2)
 				.AddIngredient(ItemID.DirtBlock)

@@ -2,6 +2,7 @@ using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using Terraria.GameContent.Creative;
 
 namespace MorePlatforms.Content.Items
 {
@@ -9,9 +10,11 @@ namespace MorePlatforms.Content.Items
 	{
 		public override void SetStaticDefaults()
 		{
-			DisplayName.SetDefault("Asphalt Platform");
-			Tooltip.SetDefault("Increases running speed");
-		}
+			// DisplayName.SetDefault("Asphalt Platform");
+			// Tooltip.SetDefault("Increases running speed");
+
+            CreativeItemSacrificesCatalog.Instance.SacrificeCountNeededByItemId[Type] = 200;
+        }
 		public override void SetDefaults()
 		{
 			Item.width = 12;
