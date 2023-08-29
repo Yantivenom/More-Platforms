@@ -40,5 +40,5 @@ namespace MorePlatforms.Content.Tiles
 		}
 
 		public override void PostSetDefaults() => Main.tileNoSunLight[Type] = false;
-	}
+    }
 }

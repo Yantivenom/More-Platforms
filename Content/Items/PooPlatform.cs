@@ -19,7 +19,7 @@ namespace MorePlatforms.Content.Items
         {
             Item.width = 12;
             Item.height = 12;
-            Item.maxStack = 999;
+            Item.maxStack = 9999;
             Item.useTurn = true;
             Item.useTime = 1;
             Item.useAnimation = 15;

@@ -40,5 +40,10 @@ namespace MorePlatforms.Content.Tiles
 		}
 
 		public override void PostSetDefaults() => Main.tileNoSunLight[Type] = false;
-	}
+
+        public override void FloorVisuals(Player player)
+        {
+            player.runningOnSand = true;
+        }
+    }
 }
