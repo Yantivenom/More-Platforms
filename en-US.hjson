@@ -57,8 +57,18 @@ Mods: {
 			}
 
 			StonePlatform: {
-				DisplayName: Stone Platform
+				DisplayName: CobbleStone Platform
 				Tooltip: Platform made of stone.
+			}
+
+			CandyCanePlatformItem: {
+				DisplayName: Candy Cane Platform
+				Tooltip: Red jolly platforms.
+			}
+
+			GreenCandyCanePlatformItem: {
+				DisplayName: Green Candy Cane Platform
+				Tooltip: Green jolly platforms.
 			}
 		}
 	}

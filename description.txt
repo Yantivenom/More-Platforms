@@ -12,13 +12,19 @@ Sandstone Brick Platform
 Infused Honey Platform (Provides Honey Buff)
 Poo Platform (Makes you stink)
 RainbowBrick Platform
+CandyCane Platform
+Green CandyCane Platform
 
 All of these platforms have quick placement so you can run at max speed while placing them.
 The dirt and stone platform are mostly for arena building since cutting down your entire worlds supply of wood for platforms isn't very cash money.
 
 Donate if you wish: https://ko-fi.com/yantivenom
-Subscribing on YouTube also helps me: https://youtube.com/@humanodie
 Source Code: https://github.com/Yantivenom/More-Platforms
+
+UPDATE 1.7
+CandyCane Platform
+Green CandyCane Platform
+Stone Platforms now called CobbleStone Platforms since Stone Platform is a vanilla item
 
 UPDATE 1.6.1
 Dunerider Boots now work on Sandstone Platforms
